@@ -1,0 +1,1 @@
+This repository has two branches, main and feature-about-me. The feature-about-me branch contains an index.html file containing information about me. The main branch contains an updated version of the index.html file containing information about both me and my groupmates. The index.html file was updated by my groupmates to include their information.
